@@ -14,6 +14,7 @@ public class Account {
 Account theAccount;
 String AccountNumber;
 double currentBalance;
+int newNumber;
 
 public Account(String AccNum,double initialBalance){
     this.AccountNumber = AccNum;
